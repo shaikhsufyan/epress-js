@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+    color: rgb(1, 211, 1);
+    font-weight: 800;
+    /* font-size: 65px; */
+    
+}
+body{
+    background-color: pink;
+}
+.home{
+    color: green;
+}
+.box{
+    width: 800px;
+    margin: auto;
+    height: 333px;
+    background-color: aquamarine;
+    text-align: center;
+    background-color: black;
+}
+ul{
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    color: white;
+    padding: 22px;
+}
